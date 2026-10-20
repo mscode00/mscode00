@@ -1,31 +1,25 @@
-# Hi there, I'm Mariya Sayyed! 👋
+<div align="center">
 
-🎓 BCA Student | Aspiring Software Developer
+<pre>
+███╗   ███╗ █████╗ ██████╗ ██╗██╗   ██╗ █████╗
+████╗ ████║██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗
+██╔████╔██║███████║██████╔╝██║ ╚████╔╝ ███████║
+██║╚██╔╝██║██╔══██║██╔══██╗██║  ╚██╔╝  ██╔══██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║   ██║   ██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+</pre>
 
-I'm a second-year Bachelor of Computer Applications (BCA) student interested in technology, programming, and software development.
+### `MARIYA.SYS` — A MIND UNDER CONSTRUCTION
 
-🌱 I'm currently learning and strengthening my programming fundamentals while exploring new technologies.
+*Curiosity is the source code. Creativity is the interface.*
 
-## 💻 Interests
-- Artificial Intelligence (AI)
-- Data Analysis
-- Cloud Computing
-- Prompt Engineering
-- Web Development
-
-## 🛠️ Skills & Technologies
-- C and C++
-- HTML and CSS
-- JavaScript
-- Node.js and Express.js
-- Python
-
-## 🚀 Projects
-- **SkillSwap** – A peer-to-peer skill exchange and collaboration platform.
-- **AI-Based Student Study & Career Guidance Chatbot** – A chatbot that helps students with study planning, learning, and career guidance.
-
-## 🎯 My Goal
-To keep learning, build useful projects, and grow as a software developer.
+</div>
 
 ---
-✨ *Learning something new every day!*
+
+```text
+> INITIALIZING PROFILE...
+> Identity   : Mariya Sayyed
+> Designation: BCA Student
+> Mode       : Learn | Think | Create
+> Status     : Under development
