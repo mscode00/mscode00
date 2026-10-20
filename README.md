@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Munzira! 👋
 
-<!--
-**mscode00/mscode00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a second-year Bachelor of Computer Applications (BCA) student interested in technology, programming, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently learning and strengthening my programming fundamentals while exploring new technologies.
+
+## 💻 Interests
+- Artificial Intelligence (AI)
+- Data Analysis
+- Cloud Computing
+- Prompt Engineering
+- Web Development
+
+## 🛠️ Skills & Technologies
+- C and C++
+- HTML and CSS
+- JavaScript
+- Node.js and Express.js
+- Python
+
+## 🚀 Projects
+- **SkillSwap** – A peer-to-peer skill exchange and collaboration platform.
+- **AI-Based Student Study & Career Guidance Chatbot** – A chatbot that helps students with study planning, learning, and career guidance.
+
+## 🎯 My Goal
+To keep learning, build useful projects, and grow as a software developer.
+
+---
+✨ *Learning something new every day!*
