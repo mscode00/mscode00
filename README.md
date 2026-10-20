@@ -1,4 +1,4 @@
-# Hi there, I'm Munzira! 👋
+# Hi there, I'm Mariya Sayyed! 👋
 
 🎓 BCA Student | Aspiring Software Developer
 
